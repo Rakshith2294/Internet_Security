@@ -72,21 +72,6 @@ int main()
   }
 }
 
-void send_dns_request()
-{
-  // Students need to implement this function
-}
-
-
-/* Use for sending forged DNS response.
- * Add arguments to the function definition if needed.
- * */
-void send_dns_response()
-{
-  // Students need to implement this function
-}
-
-
 /* Send the raw packet out 
  *    buffer: to contain the entire IP packet, with everything filled out.
  *    pkt_size: the size of the buffer.
