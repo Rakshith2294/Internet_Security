@@ -1,2 +1,2 @@
 # Internet_Security
-Includes lab assignments for course CSE644 taught by Dr Kevin DU in Syracuse University.
+Includes lab assignments for the course Internet Security CIS/CSE644 taught by Dr Kevin Du in Syracuse University.
